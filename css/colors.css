@@ -1,0 +1,34 @@
+h1{
+  text-align: center;
+  font-family: "Tiny5", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.table{
+  margin: auto;
+  padding: 20px;
+}
+
+td{
+  padding: 2px;
+  width: 200px;
+  height: 400px;
+  border: 10px solid white;
+}
+
+#one{
+  background-color: #EFABFF;
+}
+#two{
+  background-color: #EDA2F2;
+}
+#three{
+  background-color: #DC6BAD;
+}
+#four{
+  background-color: #8C7AA9;
+}
+#five{
+  background-color: #7192BE;
+}
